@@ -1,5 +1,5 @@
 #coding: utf-8
-from flask import Flask
+from flask import import render_template,Flask
 
 app = Flask(__name__)
 
